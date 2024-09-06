@@ -1,0 +1,14 @@
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion2\bin\Debug\net8.0\lektion2.exe
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion2\bin\Debug\net8.0\lektion2.deps.json
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion2\bin\Debug\net8.0\lektion2.runtimeconfig.json
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion2\bin\Debug\net8.0\lektion2.dll
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion2\bin\Debug\net8.0\lektion2.pdb
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion2\obj\Debug\net8.0\lektion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion2\obj\Debug\net8.0\lektion2.AssemblyInfoInputs.cache
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion2\obj\Debug\net8.0\lektion2.AssemblyInfo.cs
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion2\obj\Debug\net8.0\lektion2.csproj.CoreCompileInputs.cache
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion2\obj\Debug\net8.0\lektion2.dll
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion2\obj\Debug\net8.0\refint\lektion2.dll
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion2\obj\Debug\net8.0\lektion2.pdb
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion2\obj\Debug\net8.0\lektion2.genruntimeconfig.cache
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion2\obj\Debug\net8.0\ref\lektion2.dll
