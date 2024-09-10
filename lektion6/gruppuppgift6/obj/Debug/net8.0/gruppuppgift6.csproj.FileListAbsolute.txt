@@ -12,3 +12,4 @@ C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion6\gruppuppg
 C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion6\gruppuppgift6\obj\Debug\net8.0\gruppuppgift6.pdb
 C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion6\gruppuppgift6\obj\Debug\net8.0\gruppuppgift6.genruntimeconfig.cache
 C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion6\gruppuppgift6\obj\Debug\net8.0\ref\gruppuppgift6.dll
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion6\gruppuppgift6\obj\Debug\net8.0\gruppuppgift6.sourcelink.json

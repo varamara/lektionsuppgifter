@@ -18,12 +18,6 @@ public class BankAccount
         return random.Next(100000000, 199999999);
     }
 
-    public void CreateAccount()
-    {
-        Console.WriteLine("Enter your Name: ");
-        string? newName = Console.ReadLine();
-    }
-
     public void DisplayAccount()
     {
         Console.Clear();
