@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StenSaxPase", "StenSaxPase.csproj", "{0CC96E8E-0F2F-40F8-A281-E9AC4DEA54C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gruppuppgift8", "gruppuppgift8.csproj", "{B8234BD6-DADF-4E0B-8C44-9A3C34B8D9EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0CC96E8E-0F2F-40F8-A281-E9AC4DEA54C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0CC96E8E-0F2F-40F8-A281-E9AC4DEA54C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0CC96E8E-0F2F-40F8-A281-E9AC4DEA54C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0CC96E8E-0F2F-40F8-A281-E9AC4DEA54C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8234BD6-DADF-4E0B-8C44-9A3C34B8D9EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8234BD6-DADF-4E0B-8C44-9A3C34B8D9EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8234BD6-DADF-4E0B-8C44-9A3C34B8D9EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8234BD6-DADF-4E0B-8C44-9A3C34B8D9EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C8B7E4B7-E7FD-4473-99C1-62959B3B00A9}
+		SolutionGuid = {219797EF-2EED-4DE3-8076-2B0C6869F3DA}
 	EndGlobalSection
 EndGlobal

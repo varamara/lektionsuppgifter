@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mikah\\OneDrive\\Desktop\\Frontend\\C#\\lektionsuppgifter\\lektion7\\StenSaxPase\\StenSaxPase.csproj",
-      "projectName": "StenSaxPase",
-      "projectPath": "C:\\Users\\mikah\\OneDrive\\Desktop\\Frontend\\C#\\lektionsuppgifter\\lektion7\\StenSaxPase\\StenSaxPase.csproj",
+      "projectUniqueName": "C:\\Users\\mikah\\OneDrive\\Desktop\\Frontend\\C#\\lektionsuppgifter\\lektion8\\gruppuppgift8\\gruppuppgift8.csproj",
+      "projectName": "gruppuppgift8",
+      "projectPath": "C:\\Users\\mikah\\OneDrive\\Desktop\\Frontend\\C#\\lektionsuppgifter\\lektion8\\gruppuppgift8\\gruppuppgift8.csproj",
       "packagesPath": "C:\\Users\\mikah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mikah\\OneDrive\\Desktop\\Frontend\\C#\\lektionsuppgifter\\lektion7\\StenSaxPase\\obj\\",
+      "outputPath": "C:\\Users\\mikah\\OneDrive\\Desktop\\Frontend\\C#\\lektionsuppgifter\\lektion8\\gruppuppgift8\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
