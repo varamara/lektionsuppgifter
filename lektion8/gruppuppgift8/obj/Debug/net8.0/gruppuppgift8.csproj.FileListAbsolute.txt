@@ -1,0 +1,15 @@
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion8\gruppuppgift8\bin\Debug\net8.0\gruppuppgift8.exe
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion8\gruppuppgift8\bin\Debug\net8.0\gruppuppgift8.deps.json
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion8\gruppuppgift8\bin\Debug\net8.0\gruppuppgift8.runtimeconfig.json
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion8\gruppuppgift8\bin\Debug\net8.0\gruppuppgift8.dll
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion8\gruppuppgift8\bin\Debug\net8.0\gruppuppgift8.pdb
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion8\gruppuppgift8\obj\Debug\net8.0\gruppuppgift8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion8\gruppuppgift8\obj\Debug\net8.0\gruppuppgift8.AssemblyInfoInputs.cache
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion8\gruppuppgift8\obj\Debug\net8.0\gruppuppgift8.AssemblyInfo.cs
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion8\gruppuppgift8\obj\Debug\net8.0\gruppuppgift8.csproj.CoreCompileInputs.cache
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion8\gruppuppgift8\obj\Debug\net8.0\gruppuppgift8.sourcelink.json
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion8\gruppuppgift8\obj\Debug\net8.0\gruppuppgift8.dll
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion8\gruppuppgift8\obj\Debug\net8.0\refint\gruppuppgift8.dll
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion8\gruppuppgift8\obj\Debug\net8.0\gruppuppgift8.pdb
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion8\gruppuppgift8\obj\Debug\net8.0\gruppuppgift8.genruntimeconfig.cache
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion8\gruppuppgift8\obj\Debug\net8.0\ref\gruppuppgift8.dll
