@@ -15,6 +15,6 @@ public class Berries : Product
 
     public override void DisplayInfo()
     {
-        Console.WriteLine($"{Name} ----- {Price}kr ---- Qnt: {Quantity} ---- In season: {_inSeason} ");
+        Console.WriteLine($"{Name} ---- {Price}kr ---- Qnt: {Quantity} ---- In season: {_inSeason} ");
     }
 }

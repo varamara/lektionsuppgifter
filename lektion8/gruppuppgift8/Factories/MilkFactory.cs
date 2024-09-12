@@ -3,10 +3,9 @@ namespace Factories;
 
 public class MilkFactory : ProductFactory
 {
-    public override Product CreateProduct(string ProductType, string productType, string name, decimal price, int quantity, string expiry, bool inSeason, MeatType meatType)
+    public override Product CreateProduct(string productType, string name, decimal price, int quantity, params object[] extraParams)
     {
-        return new Milk(ProductType, name, price, quantity, expiry);
+        string expiry = extraParams[0] as string;
+        return new Milk(productType, name, price, quantity, expiry);
     }
 }
-
-

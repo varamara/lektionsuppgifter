@@ -11,6 +11,6 @@ public class Milk : Product
 
     public override void DisplayInfo()
     {
-        Console.WriteLine($"{Name} -------- {Price}kr ---- Qnt: {Quantity} ---- Expiry Date: {Expiry} ");
+        Console.WriteLine($"{Name} ---- {Price}kr ---- Qnt: {Quantity} ---- Expiry Date: {Expiry} ");
     }
 }

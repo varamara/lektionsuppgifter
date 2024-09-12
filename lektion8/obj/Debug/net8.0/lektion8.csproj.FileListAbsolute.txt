@@ -1,0 +1,5 @@
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion8\obj\Debug\net8.0\lektion8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion8\obj\Debug\net8.0\lektion8.AssemblyInfoInputs.cache
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion8\obj\Debug\net8.0\lektion8.AssemblyInfo.cs
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion8\obj\Debug\net8.0\lektion8.csproj.CoreCompileInputs.cache
+C:\Users\mikah\OneDrive\Desktop\Frontend\C#\lektionsuppgifter\lektion8\obj\Debug\net8.0\lektion8.sourcelink.json
