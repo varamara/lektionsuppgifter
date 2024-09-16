@@ -2,5 +2,5 @@ namespace factoryTest;
 
 public abstract class Car
 {
-    void Drive();
+    public abstract void Drive();
 }
